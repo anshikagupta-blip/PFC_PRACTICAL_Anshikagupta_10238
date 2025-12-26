@@ -13,3 +13,5 @@ for (i = 1; i <= 10; i++) {
     printf("Sum of even numbers = %d", sum);
     return 0;
 }
+//output
+//Sum of even numbers = 30

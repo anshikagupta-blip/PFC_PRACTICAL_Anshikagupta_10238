@@ -5,10 +5,8 @@
 void printTriangle(int n)
 {
     int i, j;
-    for(i = 1; i <= n; i++)
-    {
-        for(j = 1; j <= i; j++)
-        {
+    for(i = 1; i <= n; i++) {
+        for(j = 1; j <= i; j++){
             printf("* ");
         }
         printf("\n");
@@ -20,9 +18,15 @@ int main()
     int n;
     printf("Enter height: ");
     scanf("%d", &n);
-
     printTriangle(n);
-
-    return 0;
+return 0;
 }
+/*
+output
+Enter height: 4 
+* 
+* * 
+* * * 
+* * * * 
+*/
 

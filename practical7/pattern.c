@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    //Anshika Gupta
+    //ERP 10238
     int i, j;
 
     for (i = 0; i < 4; i++) {
@@ -12,3 +14,9 @@ int main() {
 
     return 0;
 }
+/* output
+A
+AB
+ABC
+ABCD
+*/

@@ -19,5 +19,10 @@ int main()
     scanf("%d", &n);
     printf("sum of digit = %d", sumOfDigits(n));
     return 0;
-    
+
 }
+/*
+output
+Enter number: 4132
+sum of digit = 10
+*/

@@ -27,3 +27,11 @@ int main() {
 
     return 0;
 }
+//output
+//Enter ATM PIN: 1234
+//Incorrect PIN.
+//Enter ATM PIN: 5677 
+//Incorrect PIN.
+//Enter ATM PIN: 4321
+//PIN Verified Successfully.
+//Welcome to ATM.
